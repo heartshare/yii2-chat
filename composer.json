@@ -17,11 +17,5 @@
         "psr-4": {
             "poprigun\\chat\\": ""
         }
-    },
-    "repositories":[
-        {
-            "type": "git",
-            "url": "https://github.com/poprigun/yii2-chat"
-        }
-    ]
+    }
 }
