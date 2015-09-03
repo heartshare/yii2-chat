@@ -1,6 +1,6 @@
-poprigun-chat
+poprigun-yii2-chat
 =============
-poprigun-chat
+poprigun-yii2-chat
 
 Installation
 ------------
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist poprigun/chat "*"
+php composer.phar require poprigun/yii2-chat "*"
 ```
 
 or add
 
 ```
-"poprigun/chat": "*"
+"poprigun/yii2-chat": "*"
 ```
 
 to the require section of your `composer.json` file.
